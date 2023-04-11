@@ -1,2 +1,2 @@
 # map-tools
-My own private map toolbox
+Assorted diagnostic tools for vector tile cartography
